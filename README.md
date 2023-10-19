@@ -4,3 +4,5 @@
 Dashboard public link - https://public.tableau.com/views/loksabhaanalysis2019/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Story link - https://public.tableau.com/shared/N44QHDFQZ?:display_count=n&:origin=viz_share_link
+
+vido demonstration - https://drive.google.com/file/d/1iewtAo85ifXQY2AhlcwNIKxzssDhT3bd/view?usp=drivesdk
